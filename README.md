@@ -63,8 +63,8 @@
     <span style="padding:8px 16px; border-radius:999px; background:#eff6ff; color:#1d4ed8;">HTML</span>
     <span style="padding:8px 16px; border-radius:999px; background:#eff6ff; color:#1d4ed8;">CSS</span>
     <span style="padding:8px 16px; border-radius:999px; background:#ede9fe; color:#5b21b6;">JavaScript</span>
-    <span style="padding:8px 16px; border-radius:999px; background:#ede9fe; color:#5b21b6;">PHP</span>
-    <span style="padding:8px 16px; border-radius:999px; background:#fef3c7; color:#92400e;">Laravel</span>
+    <span style="padding:8px 16px; border-radius:999px; background:#ede9fe; color:#5b21b6;"></span>
+    <span style="padding:8px 16px; border-radius:999px; background:#fef3c7; color:#92400e;"></span>
     <span style="padding:8px 16px; border-radius:999px; background:#ecfeff; color:#155e75;">Git</span>
   </div>
 
