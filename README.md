@@ -27,7 +27,7 @@
     color: #6b7280;
     margin-top: 0;
   ">
-    Web Developer · JavaScript · Laravel
+    Web Developer · JavaScript 
   </p>
 
   <!-- ACCENT LINE -->
