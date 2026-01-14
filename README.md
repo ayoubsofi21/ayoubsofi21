@@ -1,18 +1,18 @@
 <div align="center" style="
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  max-width: 900px;
+  max-width: 960px;
   margin: auto;
-  padding: 50px 20px;
-  background: linear-gradient(180deg, #f9fafb, #ffffff);
+  padding: 60px 20px;
+  background: linear-gradient(180deg, #f8fafc, #ffffff);
 ">
 
   <!-- NAME -->
   <h1 style="
-    font-size: 44px;
-    font-weight: 800;
-    margin-bottom: 6px;
-    letter-spacing: -0.8px;
-    background: linear-gradient(90deg, #2563eb, #7c3aed);
+    font-size: 46px;
+    font-weight: 900;
+    margin-bottom: 8px;
+    letter-spacing: -1px;
+    background: linear-gradient(90deg, #dc2626, #2563eb);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   ">
@@ -21,35 +21,37 @@
 
   <!-- ROLE -->
   <p style="
-    font-size: 15px;
-    letter-spacing: 2px;
+    font-size: 14px;
+    letter-spacing: 3px;
     text-transform: uppercase;
-    color: #6b7280;
+    color: #64748b;
     margin-top: 0;
+    font-weight: 600;
   ">
-    Web Developer · JavaScript 
+    Laravel & PHP Web Developer
   </p>
 
-  <!-- ACCENT LINE -->
+  <!-- DIVIDER -->
   <div style="
-    width: 90px;
+    width: 110px;
     height: 4px;
-    margin: 30px auto;
+    margin: 32px auto;
     border-radius: 999px;
-    background: linear-gradient(90deg, #2563eb, #7c3aed);
+    background: linear-gradient(90deg, #dc2626, #2563eb);
   "></div>
 
   <!-- DESCRIPTION -->
   <p style="
     font-size: 18px;
-    line-height: 1.8;
-    color: #374151;
-    max-width: 720px;
+    line-height: 1.9;
+    color: #334155;
+    max-width: 760px;
     margin: auto;
   ">
-    I design and develop modern web applications with a strong focus on
-    clean architecture, performance, and maintainability.
-    Passionate about turning ideas into reliable digital products.
+    Web developer specialized in <strong>Laravel</strong> and <strong>PHP</strong>,
+    with solid experience in <strong>JavaScript</strong> and modern frontend tools.
+    I build secure, scalable, and maintainable web applications using best practices
+    and Git-based workflows.
   </p>
 
   <!-- SKILLS -->
@@ -58,23 +60,50 @@
     justify-content: center;
     gap: 14px;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 45px;
   ">
-    <span style="padding:8px 16px; border-radius:999px; background:#eff6ff; color:#1d4ed8;">HTML</span>
-    <span style="padding:8px 16px; border-radius:999px; background:#eff6ff; color:#1d4ed8;">CSS</span>
-    <span style="padding:8px 16px; border-radius:999px; background:#ede9fe; color:#5b21b6;">JavaScript</span>
-    <span style="padding:8px 16px; border-radius:999px; background:#ede9fe; color:#5b21b6;"></span>
-    <span style="padding:8px 16px; border-radius:999px; background:#fef3c7; color:#92400e;"></span>
-    <span style="padding:8px 16px; border-radius:999px; background:#ecfeff; color:#155e75;">Git</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#fee2e2; color:#991b1b; font-weight:600;">PHP</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#fef3c7; color:#92400e; font-weight:600;">Laravel</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#ede9fe; color:#5b21b6; font-weight:600;">JavaScript</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#e0f2fe; color:#075985; font-weight:600;">HTML</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#e0f2fe; color:#075985; font-weight:600;">CSS</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#dcfce7; color:#166534; font-weight:600;">MySQL</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#ecfeff; color:#155e75; font-weight:600;">Git</span>
+    <span style="padding:10px 18px; border-radius:999px; background:#f1f5f9; color:#0f172a; font-weight:600;">GitHub</span>
+  </div>
+
+  <!-- WORK -->
+  <p style="
+    margin-top: 40px;
+    font-size: 16px;
+    color: #475569;
+    max-width: 700px;
+  ">
+    💼 Projects include authentication systems, dashboards, CRUD applications,
+    REST APIs, and full-stack web platforms built with Laravel.
+  </p>
+
+  <!-- CONTACT -->
+  <div style="
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    flex-wrap: wrap;
+  ">
+    <a href="mailto:ayoubesofi05@gmail.com" style="text-decoration:none; color:#2563eb; font-weight:600;">📧 Email</a>
+    <a href="https://www.linkedin.com/in/ayoub-sofi" style="text-decoration:none; color:#2563eb; font-weight:600;">💼 LinkedIn</a>
+    <a href="https://github.com/ayoubsofi" style="text-decoration:none; color:#2563eb; font-weight:600;">🐙 GitHub</a>
   </div>
 
   <!-- FOOTER -->
   <p style="
     margin-top: 45px;
     font-size: 14px;
-    color: #6b7280;
+    color: #64748b;
+    font-weight: 500;
   ">
-    📍 Morocco · Open to opportunities
+    📍 Morocco · Laravel Developer · Open to internships & junior opportunities
   </p>
 
 </div>
