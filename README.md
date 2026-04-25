@@ -1,82 +1,65 @@
-# 👨‍💻 Ayoub Sofi
+👨‍💻 Ayoub Sofi
 
-🚀 Full-Stack Web Developer in Progress
-💡 Building scalable web applications with modern technologies
+🚀 Full-Stack Web Developer
+💡 Building scalable, secure, and user-focused web applications
 
----
+🧠 About Me
 
-## 🧠 About Me
+I design and develop complete web applications, from frontend interfaces to backend systems.
+My approach focuses on clean architecture, performance, and real-world usability.
 
-I design and build web applications from scratch, focusing on **clean architecture, performance and user experience**.
+I work across the full stack using modern technologies to deliver structured and maintainable solutions.
 
-Currently strengthening my skills across the full stack:
+⚙️ Tech Stack
+🎨 Frontend
+HTML5 (Semantic & Accessible)
+CSS3 (Flexbox, Grid, Responsive Design)
+Tailwind CSS / Bootstrap
+JavaScript (ES6+)
+🧠 Backend
+PHP (Procedural & OOP)
+MySQL / SQL
+RESTful APIs
+MVC Architecture
+🔧 Tools
+Git & GitHub
+VS Code
+Chrome DevTools
+Figma
+🧩 What I Build
+Full-stack web applications
+Authentication systems (Login / Register / Password Reset)
+Secure backend systems with database integration
+Responsive and dynamic user interfaces
+CRUD applications with clean structure
+📂 Projects
 
-* Frontend (HTML, CSS, JavaScript)
-* Backend (PHP, MySQL)
-* Modern frameworks (React, Laravel)
+🔹 Authentication System (PHP & MySQL)
 
----
+User registration & login
+Secure password handling
+Session management
+Password reset functionality
 
-## ⚙️ Tech Stack
+🔹 Dashboard System
 
-### 🎨 Frontend
+Protected routes using sessions
+User-specific data display
+Clean UI with responsive design
 
-* HTML5 (Semantic, Accessibility)
-* CSS3 (Flexbox, Grid, Responsive Design)
-* Tailwind CSS / Bootstrap
-* JavaScript (ES6)
+🔹 CRUD Application
 
-### 🧠 Backend
+Create, Read, Update, Delete operations
+Structured MVC approach
+Database-driven functionality
+📈 Current Focus
+Building scalable full-stack applications
+Improving backend security (validation, sessions, authentication)
+Working with Laravel & React for modern architectures
+🎯 Vision
 
-* PHP (Procedural & OOP)
-* MySQL / SQL
-* MVC Architecture (learning & applying)
+To deliver production-ready web applications and grow as a developer capable of handling complete project lifecycles — from idea to deployment.
 
-### 🔧 Tools
-
-* Git & GitHub
-* VS Code
-* Chrome DevTools
-* Figma
-
----
-
-## 🧩 What I Build
-
-* Responsive web applications
-* Multi-page websites
-* Dynamic interfaces (JavaScript)
-* Backend systems with database (CRUD)
-* Structured and scalable projects
-
----
-
-## 📂 Projects
-
-🔹 Coming soon — currently building and refining real-world projects.
-
----
-
-## 📈 Current Focus
-
-* Writing clean and maintainable code
-* Building full-stack applications
-* Mastering Laravel & React ecosystem
-
----
-
-## 🎯 Vision
-
-To become a **professional full-stack developer** capable of building and deploying complete, scalable web applications.
-
----
-
-## 🤝 Contact
-
-* GitHub: https://github.com/your-username
-* Email: [ayoubsofi03@email.com](mailto:ayoubsofi03@email.com)
-  
-
----
-
-⚡ *Code. Learn. Build. Repeat.*
+🤝 Contact
+GitHub: https://github.com/ayoubsofi21
+Email: ayoubsofi03@email.com
