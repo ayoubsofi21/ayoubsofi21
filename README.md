@@ -57,10 +57,9 @@ I approach development with an engineering mindset, focusing on **clean architec
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs&theme=dark" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=php,laravel,spring,nodejs&theme=dark" alt="Backend technologies" />
 
 - PHP & Laravel
-- Java & Spring Boot
 - Node.js
 - RESTful API Development
 - MVC Architecture
