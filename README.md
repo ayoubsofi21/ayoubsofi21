@@ -35,7 +35,7 @@
   />
 
 </div>
-## About Me
+**About Me**
 
 I'm a **Full-Stack Developer** passionate about software engineering, application architecture, and building reliable, scalable digital products.
 
