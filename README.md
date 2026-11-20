@@ -1,11 +1,6 @@
-# Ayoub Sofi | Full-Stack Developer & Software Engineer
-
 <div align="center">
-
   <h1>Hi, I'm Ayoub Sofi 👋</h1>
-
   <h3>Full-Stack Developer · Software Engineer · DevOps Enthusiast</h3>
-
   <p>
     Designing, engineering, and deploying scalable software solutions.
   </p>
