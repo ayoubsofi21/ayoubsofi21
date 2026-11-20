@@ -37,23 +37,21 @@
 </div>
 ## About Me
 
-I'm a **Full-Stack Developer** passionate about software engineering, application architecture, and building reliable digital products.
+I'm a **Full-Stack Developer** passionate about software engineering, application architecture, and building reliable, scalable digital products.
 
-My work focuses on developing complete web applications, from designing intuitive user interfaces to engineering backend systems, structuring databases, building RESTful APIs, and deploying applications using modern infrastructure.
+I work across the entire software development lifecycle — from designing intuitive user interfaces and engineering backend systems to structuring databases, developing RESTful APIs, and deploying applications using modern infrastructure.
 
-I approach software development with an engineering mindset: prioritizing clean architecture, maintainability, security, performance, and scalability.
+I approach development with an engineering mindset, focusing on **clean architecture, maintainability, security, performance, and scalability**.
 
 **What I work on:**
 
-- **Backend Engineering:** Building structured backend applications, REST APIs, authentication, and business logic.
-- **Frontend Engineering:** Developing responsive, component-based interfaces and integrating APIs.
-- **Database Engineering:** Designing relational and document-based data models.
-- **DevOps & Deployment:** Containerizing applications, managing environments, and deploying services.
-- **AI & Intelligent Systems:** Exploring document processing, audio transcription, indexing, and AI-powered information retrieval.
+- **Backend Engineering:** Designing structured backend systems, RESTful APIs, authentication, and business logic.
+- **Frontend Engineering:** Building responsive, component-driven interfaces and seamless API integrations.
+- **Database Engineering:** Designing and optimizing relational and document-based data models.
+- **DevOps & Deployment:** Containerizing applications, managing development environments, and deploying services.
+- **AI & Intelligent Systems:** Exploring document processing, audio transcription, search indexing, and AI-powered information retrieval.
 
 > I don't just build interfaces. I engineer complete software solutions — from architecture and development to deployment.
-
----
 
 ## Technical Ecosystem
 
