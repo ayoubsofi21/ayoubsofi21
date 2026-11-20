@@ -29,6 +29,17 @@
 
 ---
 
+### Contribution Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubsofi21&bg_color=08090c&color=a1a1aa&line=38bdf8&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+    width="100%"
+  />
+
+</div>
 ## About Me
 
 I'm a **Full-Stack Developer** passionate about software engineering, application architecture, and building reliable digital products.
@@ -266,19 +277,6 @@ I focus on building software that is structured, maintainable, and ready for rea
   />
 
 </div>
-
-### Contribution Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubsofi21&bg_color=08090c&color=a1a1aa&line=38bdf8&point=ffffff&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
-
-</div>
-
 ---
 
 ## Currently Learning & Exploring
